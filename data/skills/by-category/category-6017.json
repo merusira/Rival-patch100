@@ -1,0 +1,132 @@
+{
+  "version": "1.0",
+  "categoryId": 6017,
+  "lastUpdated": "2025-04-06T06:06:01.513Z",
+  "skills": {
+    "170100": {
+      "id": 170100,
+      "type": "instance",
+      "templateId": 10906,
+      "name": "Popori_M_Archer_Lv01_Spider web Arrow",
+      "category": [
+        6017,
+        26,
+        106,
+        9012,
+        10000,
+        9999
+      ],
+      "timeRate": 1,
+      "totalAtk": 122.9061,
+      "class": "archer",
+      "animationDuration": 0,
+      "pendingStartTime": 300,
+      "coolTime": 5000,
+      "mpCost": 12,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "170200": {
+      "id": 170200,
+      "type": "instance",
+      "templateId": 10906,
+      "name": "Popori_M_Archer_Lv02_Spider web Arrow",
+      "category": [
+        6017,
+        26,
+        106,
+        9012,
+        10000,
+        9999
+      ],
+      "timeRate": 1,
+      "totalAtk": 381.8266,
+      "class": "archer",
+      "animationDuration": 0,
+      "pendingStartTime": 300,
+      "coolTime": 5000,
+      "mpCost": 12,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "170300": {
+      "id": 170300,
+      "type": "instance",
+      "templateId": 10906,
+      "name": "Popori_M_Archer_Lv03_Spider web Arrow",
+      "category": [
+        6017,
+        26,
+        106,
+        9012,
+        10000,
+        9999
+      ],
+      "timeRate": 1,
+      "totalAtk": 523.1356,
+      "class": "archer",
+      "animationDuration": 0,
+      "pendingStartTime": 300,
+      "coolTime": 5000,
+      "mpCost": 12,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "170400": {
+      "id": 170400,
+      "type": "instance",
+      "templateId": 10906,
+      "name": "Popori_M_Archer_Lv04_Spider web Arrow",
+      "category": [
+        6017,
+        26,
+        106,
+        9012,
+        10000,
+        9999
+      ],
+      "timeRate": 1,
+      "totalAtk": 381.8266,
+      "class": "archer",
+      "animationDuration": 0,
+      "pendingStartTime": 300,
+      "coolTime": 5000,
+      "mpCost": 12,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "170500": {
+      "id": 170500,
+      "type": "instance",
+      "templateId": 10906,
+      "name": "Popori_M_Archer_Lv05_Spider web Arrow",
+      "category": [
+        6017,
+        26,
+        106,
+        9012,
+        10000,
+        9999
+      ],
+      "timeRate": 1,
+      "totalAtk": 381.8266,
+      "class": "archer",
+      "animationDuration": 0,
+      "pendingStartTime": 300,
+      "coolTime": 5000,
+      "mpCost": 12,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    }
+  }
+}

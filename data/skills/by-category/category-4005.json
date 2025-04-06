@@ -1,0 +1,127 @@
+{
+  "version": "1.0",
+  "categoryId": 4005,
+  "lastUpdated": "2025-04-06T06:06:01.493Z",
+  "skills": {
+    "50100": {
+      "id": 50100,
+      "type": "movingSkill",
+      "templateId": 10904,
+      "name": "Popori_M_Berserker_Lv01_Dash_Start 01",
+      "category": [
+        4005,
+        84,
+        104,
+        10000,
+        9999
+      ],
+      "timeRate": 1,
+      "totalAtk": 0,
+      "class": "berserker",
+      "animationDuration": 0,
+      "pendingStartTime": 0,
+      "coolTime": 25000,
+      "mpCost": 150,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "50200": {
+      "id": 50200,
+      "type": "movingSkill",
+      "templateId": 10904,
+      "name": "Popori_M_Berserker_Lv02_Dash_Start 01",
+      "category": [
+        4005,
+        84,
+        104,
+        10000,
+        9999
+      ],
+      "timeRate": 1,
+      "totalAtk": 0,
+      "class": "berserker",
+      "animationDuration": 0,
+      "pendingStartTime": 0,
+      "coolTime": 25000,
+      "mpCost": 150,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "50300": {
+      "id": 50300,
+      "type": "movingSkill",
+      "templateId": 10904,
+      "name": "Popori_M_Berserker_Lv03_Dash_Start 01",
+      "category": [
+        4005,
+        84,
+        104,
+        10000,
+        9999
+      ],
+      "timeRate": 1,
+      "totalAtk": 0,
+      "class": "berserker",
+      "animationDuration": 0,
+      "pendingStartTime": 0,
+      "coolTime": 25000,
+      "mpCost": 150,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "50400": {
+      "id": 50400,
+      "type": "movingSkill",
+      "templateId": 10904,
+      "name": "Popori_M_Berserker_Lv04_Dash_Start 01",
+      "category": [
+        4005,
+        84,
+        104,
+        10000,
+        9999
+      ],
+      "timeRate": 1,
+      "totalAtk": 0,
+      "class": "berserker",
+      "animationDuration": 0,
+      "pendingStartTime": 0,
+      "coolTime": 25000,
+      "mpCost": 150,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "50500": {
+      "id": 50500,
+      "type": "movingSkill",
+      "templateId": 10904,
+      "name": "Popori_M_Berserker_Lv05_Dash_Start 01",
+      "category": [
+        4005,
+        84,
+        104,
+        10000,
+        9999
+      ],
+      "timeRate": 1,
+      "totalAtk": 0,
+      "class": "berserker",
+      "animationDuration": 0,
+      "pendingStartTime": 0,
+      "coolTime": 25000,
+      "mpCost": 150,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    }
+  }
+}

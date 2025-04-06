@@ -1,0 +1,127 @@
+{
+  "version": "1.0",
+  "categoryId": 7010,
+  "lastUpdated": "2025-04-06T06:06:01.517Z",
+  "skills": {
+    "100100": {
+      "id": 100100,
+      "type": "normal",
+      "templateId": 10907,
+      "name": "Popori_M_Priest_Lv01_Purify_Cast 01",
+      "category": [
+        7010,
+        31,
+        108,
+        10000,
+        9999
+      ],
+      "timeRate": 1.1,
+      "totalAtk": 0,
+      "class": "priest",
+      "animationDuration": 0,
+      "pendingStartTime": 500,
+      "coolTime": 2500,
+      "mpCost": 150,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "100200": {
+      "id": 100200,
+      "type": "normal",
+      "templateId": 10907,
+      "name": "Popori_M_Priest_Lv02_Purify_Cast 01",
+      "category": [
+        7010,
+        31,
+        108,
+        10000,
+        9999
+      ],
+      "timeRate": 1.1,
+      "totalAtk": 0,
+      "class": "priest",
+      "animationDuration": 0,
+      "pendingStartTime": 500,
+      "coolTime": 2500,
+      "mpCost": 150,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "100300": {
+      "id": 100300,
+      "type": "normal",
+      "templateId": 10907,
+      "name": "Popori_M_Priest_Lv03_Purify_Cast 01",
+      "category": [
+        7010,
+        31,
+        108,
+        10000,
+        9999
+      ],
+      "timeRate": 1.1,
+      "totalAtk": 0,
+      "class": "priest",
+      "animationDuration": 0,
+      "pendingStartTime": 500,
+      "coolTime": 2000,
+      "mpCost": 10,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "100400": {
+      "id": 100400,
+      "type": "normal",
+      "templateId": 10907,
+      "name": "Popori_M_Priest_Lv04_Purify_Cast 01",
+      "category": [
+        7010,
+        31,
+        108,
+        10000,
+        9999
+      ],
+      "timeRate": 1.1,
+      "totalAtk": 0,
+      "class": "priest",
+      "animationDuration": 0,
+      "pendingStartTime": 500,
+      "coolTime": 2000,
+      "mpCost": 10,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "100500": {
+      "id": 100500,
+      "type": "normal",
+      "templateId": 10907,
+      "name": "Popori_M_Priest_Lv05_Purify_Cast 01",
+      "category": [
+        7010,
+        31,
+        108,
+        10000,
+        9999
+      ],
+      "timeRate": 1.1,
+      "totalAtk": 0,
+      "class": "priest",
+      "animationDuration": 0,
+      "pendingStartTime": 500,
+      "coolTime": 2000,
+      "mpCost": 10,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "version": "1.0",
+  "categoryId": 7005,
+  "lastUpdated": "2025-04-06T06:06:01.516Z",
+  "skills": {
+    "50100": {
+      "id": 50100,
+      "type": "normal",
+      "templateId": 10907,
+      "name": "Popori_M_Priest_Lv01_Attack Up Bless_Cast 01",
+      "category": [
+        7005,
+        19,
+        107,
+        10000,
+        9999
+      ],
+      "timeRate": 1.1,
+      "totalAtk": 0,
+      "class": "priest",
+      "animationDuration": 0,
+      "pendingStartTime": 900,
+      "coolTime": 3000,
+      "mpCost": 312,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "50200": {
+      "id": 50200,
+      "type": "normal",
+      "templateId": 10907,
+      "name": "Popori_M_Priest_Lv02_Attack Up Bless_Cast 01",
+      "category": [
+        7005,
+        19,
+        107,
+        10000,
+        9999
+      ],
+      "timeRate": 1.1,
+      "totalAtk": 0,
+      "class": "priest",
+      "animationDuration": 0,
+      "pendingStartTime": 900,
+      "coolTime": 3000,
+      "mpCost": 312,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "50300": {
+      "id": 50300,
+      "type": "normal",
+      "templateId": 10907,
+      "name": "Popori_M_Priest_Lv03_Attack Up Bless_Cast 01",
+      "category": [
+        7005,
+        19,
+        107,
+        10000,
+        9999
+      ],
+      "timeRate": 1.1,
+      "totalAtk": 0,
+      "class": "priest",
+      "animationDuration": 0,
+      "pendingStartTime": 900,
+      "coolTime": 3000,
+      "mpCost": 312,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "50400": {
+      "id": 50400,
+      "type": "normal",
+      "templateId": 10907,
+      "name": "Popori_M_Priest_Lv04_Attack Up Bless_Cast 01",
+      "category": [
+        7005,
+        19,
+        107,
+        10000,
+        9999
+      ],
+      "timeRate": 1.1,
+      "totalAtk": 0,
+      "class": "priest",
+      "animationDuration": 0,
+      "pendingStartTime": 900,
+      "coolTime": 3000,
+      "mpCost": 312,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "50500": {
+      "id": 50500,
+      "type": "normal",
+      "templateId": 10907,
+      "name": "Popori_M_Priest_Lv05_Attack Up Bless_Cast 01",
+      "category": [
+        7005,
+        19,
+        107,
+        10000,
+        9999
+      ],
+      "timeRate": 1.1,
+      "totalAtk": 0,
+      "class": "priest",
+      "animationDuration": 0,
+      "pendingStartTime": 900,
+      "coolTime": 3000,
+      "mpCost": 312,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    }
+  }
+}

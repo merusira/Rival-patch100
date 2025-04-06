@@ -1,0 +1,127 @@
+{
+  "version": "1.0",
+  "categoryId": 7008,
+  "lastUpdated": "2025-04-06T06:06:01.517Z",
+  "skills": {
+    "80100": {
+      "id": 80100,
+      "type": "normal",
+      "templateId": 10907,
+      "name": "Popori_M_Priest_Lv01_MP Regen_Cast 01",
+      "category": [
+        7008,
+        31,
+        108,
+        10000,
+        9999
+      ],
+      "timeRate": 1.1,
+      "totalAtk": 0,
+      "class": "priest",
+      "animationDuration": 0,
+      "pendingStartTime": 5000,
+      "coolTime": 10000,
+      "mpCost": 0,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "80200": {
+      "id": 80200,
+      "type": "normal",
+      "templateId": 10907,
+      "name": "Popori_M_Priest_Lv02_MP Regen_Cast 01",
+      "category": [
+        7008,
+        31,
+        108,
+        10000,
+        9999
+      ],
+      "timeRate": 1.1,
+      "totalAtk": 0,
+      "class": "priest",
+      "animationDuration": 0,
+      "pendingStartTime": 5000,
+      "coolTime": 20000,
+      "mpCost": 0,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "80300": {
+      "id": 80300,
+      "type": "normal",
+      "templateId": 10907,
+      "name": "Popori_M_Priest_Lv03_MP Regen_Cast 01",
+      "category": [
+        7008,
+        31,
+        108,
+        10000,
+        9999
+      ],
+      "timeRate": 1.1,
+      "totalAtk": 0,
+      "class": "priest",
+      "animationDuration": 0,
+      "pendingStartTime": 5000,
+      "coolTime": 20000,
+      "mpCost": 0,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "80400": {
+      "id": 80400,
+      "type": "normal",
+      "templateId": 10907,
+      "name": "Popori_M_Priest_Lv04_MP Regen_Cast 01",
+      "category": [
+        7008,
+        31,
+        108,
+        10000,
+        9999
+      ],
+      "timeRate": 1.1,
+      "totalAtk": 0,
+      "class": "priest",
+      "animationDuration": 0,
+      "pendingStartTime": 5000,
+      "coolTime": 20000,
+      "mpCost": 0,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "80500": {
+      "id": 80500,
+      "type": "normal",
+      "templateId": 10907,
+      "name": "Popori_M_Priest_Lv05_MP Regen_Cast 01",
+      "category": [
+        7008,
+        31,
+        108,
+        10000,
+        9999
+      ],
+      "timeRate": 1.1,
+      "totalAtk": 0,
+      "class": "priest",
+      "animationDuration": 0,
+      "pendingStartTime": 5000,
+      "coolTime": 20000,
+      "mpCost": 0,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    }
+  }
+}

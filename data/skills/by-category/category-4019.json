@@ -1,0 +1,127 @@
+{
+  "version": "1.0",
+  "categoryId": 4019,
+  "lastUpdated": "2025-04-06T06:06:01.495Z",
+  "skills": {
+    "190100": {
+      "id": 190100,
+      "type": "movingSkill",
+      "templateId": 10904,
+      "name": "Popori_M_Berserker_Lv01_Tenacity_Cast 01",
+      "category": [
+        4019,
+        31,
+        108,
+        10000,
+        9999
+      ],
+      "timeRate": 1,
+      "totalAtk": 0,
+      "class": "berserker",
+      "animationDuration": 0,
+      "pendingStartTime": 0,
+      "coolTime": 30000,
+      "mpCost": 0,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "190200": {
+      "id": 190200,
+      "type": "movingSkill",
+      "templateId": 10904,
+      "name": "Popori_M_Berserker_Lv02_Tenacity_Cast 01",
+      "category": [
+        4019,
+        31,
+        108,
+        10000,
+        9999
+      ],
+      "timeRate": 1,
+      "totalAtk": 0,
+      "class": "berserker",
+      "animationDuration": 0,
+      "pendingStartTime": 0,
+      "coolTime": 30000,
+      "mpCost": 0,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "190300": {
+      "id": 190300,
+      "type": "movingSkill",
+      "templateId": 10904,
+      "name": "Popori_M_Berserker_Lv03_Tenacity_Cast 01",
+      "category": [
+        4019,
+        31,
+        108,
+        10000,
+        9999
+      ],
+      "timeRate": 1,
+      "totalAtk": 0,
+      "class": "berserker",
+      "animationDuration": 0,
+      "pendingStartTime": 0,
+      "coolTime": 30000,
+      "mpCost": 0,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "190400": {
+      "id": 190400,
+      "type": "movingSkill",
+      "templateId": 10904,
+      "name": "Popori_M_Berserker_Lv04_Tenacity_Cast 01",
+      "category": [
+        4019,
+        31,
+        108,
+        10000,
+        9999
+      ],
+      "timeRate": 1,
+      "totalAtk": 0,
+      "class": "berserker",
+      "animationDuration": 0,
+      "pendingStartTime": 0,
+      "coolTime": 30000,
+      "mpCost": 0,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "190500": {
+      "id": 190500,
+      "type": "movingSkill",
+      "templateId": 10904,
+      "name": "Popori_M_Berserker_Lv05_Tenacity_Cast 01",
+      "category": [
+        4019,
+        31,
+        108,
+        10000,
+        9999
+      ],
+      "timeRate": 1,
+      "totalAtk": 0,
+      "class": "berserker",
+      "animationDuration": 0,
+      "pendingStartTime": 0,
+      "coolTime": 30000,
+      "mpCost": 0,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    }
+  }
+}
