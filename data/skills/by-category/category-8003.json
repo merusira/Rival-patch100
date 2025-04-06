@@ -1,0 +1,151 @@
+{
+  "version": "1.0",
+  "categoryId": 8003,
+  "lastUpdated": "2025-04-06T06:06:01.521Z",
+  "skills": {
+    "30100": {
+      "id": 30100,
+      "type": "normal",
+      "templateId": 10908,
+      "name": "Popori_M_Elementalist_Lv01_Rage Bless_Cast 01",
+      "category": [
+        8003,
+        19,
+        107,
+        10000,
+        9999
+      ],
+      "timeRate": 1.1,
+      "totalAtk": 0,
+      "class": "mystic",
+      "animationDuration": 0,
+      "pendingStartTime": 900,
+      "coolTime": 8000,
+      "mpCost": 218,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "30200": {
+      "id": 30200,
+      "type": "normal",
+      "templateId": 10908,
+      "name": "Popori_M_Elementalist_Lv02_Rage Bless_Cast 01",
+      "category": [
+        8003,
+        19,
+        107,
+        10000,
+        9999
+      ],
+      "timeRate": 1.1,
+      "totalAtk": 0,
+      "class": "mystic",
+      "animationDuration": 0,
+      "pendingStartTime": 900,
+      "coolTime": 8000,
+      "mpCost": 281,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "30300": {
+      "id": 30300,
+      "type": "normal",
+      "templateId": 10908,
+      "name": "Popori_M_Elementalist_Lv03_Rage Bless_Cast 01",
+      "category": [
+        8003,
+        19,
+        107,
+        10000,
+        9999
+      ],
+      "timeRate": 1.1,
+      "totalAtk": 0,
+      "class": "mystic",
+      "animationDuration": 0,
+      "pendingStartTime": 900,
+      "coolTime": 8000,
+      "mpCost": 343,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "30400": {
+      "id": 30400,
+      "type": "normal",
+      "templateId": 10908,
+      "name": "Popori_M_Elementalist_Lv04_Rage Bless_Cast 01",
+      "category": [
+        8003,
+        19,
+        107,
+        10000,
+        9999
+      ],
+      "timeRate": 1.1,
+      "totalAtk": 0,
+      "class": "mystic",
+      "animationDuration": 0,
+      "pendingStartTime": 900,
+      "coolTime": 8000,
+      "mpCost": 281,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "30500": {
+      "id": 30500,
+      "type": "normal",
+      "templateId": 10908,
+      "name": "Popori_M_Elementalist_Lv05_Rage Bless_Cast 01",
+      "category": [
+        8003,
+        19,
+        107,
+        10000,
+        9999
+      ],
+      "timeRate": 1.1,
+      "totalAtk": 0,
+      "class": "mystic",
+      "animationDuration": 0,
+      "pendingStartTime": 900,
+      "coolTime": 8000,
+      "mpCost": 281,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "30600": {
+      "id": 30600,
+      "type": "normal",
+      "templateId": 10908,
+      "name": "Popori_M_Elementalist_Lv06_Rage Bless_Cast 01",
+      "category": [
+        8003,
+        19,
+        107,
+        10000,
+        9999
+      ],
+      "timeRate": 1.1,
+      "totalAtk": 0,
+      "class": "mystic",
+      "animationDuration": 0,
+      "pendingStartTime": 900,
+      "coolTime": 8000,
+      "mpCost": 281,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    }
+  }
+}

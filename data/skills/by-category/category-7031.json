@@ -1,0 +1,127 @@
+{
+  "version": "1.0",
+  "categoryId": 7031,
+  "lastUpdated": "2025-04-06T06:06:01.520Z",
+  "skills": {
+    "310100": {
+      "id": 310100,
+      "type": "movingSkill",
+      "templateId": 10907,
+      "name": "Popori_M_Priest_Lv01_Guardian Aura_Cast 01",
+      "category": [
+        7031,
+        19,
+        107,
+        10000,
+        9999
+      ],
+      "timeRate": 1,
+      "totalAtk": 0,
+      "class": "priest",
+      "animationDuration": 0,
+      "pendingStartTime": 0,
+      "coolTime": 35000,
+      "mpCost": 250,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "310200": {
+      "id": 310200,
+      "type": "movingSkill",
+      "templateId": 10907,
+      "name": "Popori_M_Priest_Lv02_Guardian Aura_Cast 01",
+      "category": [
+        7031,
+        19,
+        107,
+        10000,
+        9999
+      ],
+      "timeRate": 1,
+      "totalAtk": 0,
+      "class": "priest",
+      "animationDuration": 0,
+      "pendingStartTime": 0,
+      "coolTime": 35000,
+      "mpCost": 250,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "310300": {
+      "id": 310300,
+      "type": "movingSkill",
+      "templateId": 10907,
+      "name": "Popori_M_Priest_Lv03_Guardian Aura_Cast 01",
+      "category": [
+        7031,
+        19,
+        107,
+        10000,
+        9999
+      ],
+      "timeRate": 1,
+      "totalAtk": 0,
+      "class": "priest",
+      "animationDuration": 0,
+      "pendingStartTime": 0,
+      "coolTime": 35000,
+      "mpCost": 250,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "310400": {
+      "id": 310400,
+      "type": "movingSkill",
+      "templateId": 10907,
+      "name": "Popori_M_Priest_Lv04_Guardian Aura_Cast 01",
+      "category": [
+        7031,
+        19,
+        107,
+        10000,
+        9999
+      ],
+      "timeRate": 1,
+      "totalAtk": 761.588989,
+      "class": "priest",
+      "animationDuration": 0,
+      "pendingStartTime": 0,
+      "coolTime": 5000,
+      "mpCost": 10,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "310500": {
+      "id": 310500,
+      "type": "movingSkill",
+      "templateId": 10907,
+      "name": "Popori_M_Priest_Lv05_Guardian Aura_Cast 01",
+      "category": [
+        7031,
+        19,
+        107,
+        10000,
+        9999
+      ],
+      "timeRate": 1,
+      "totalAtk": 761.588989,
+      "class": "priest",
+      "animationDuration": 0,
+      "pendingStartTime": 0,
+      "coolTime": 5000,
+      "mpCost": 10,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    }
+  }
+}

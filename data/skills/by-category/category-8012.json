@@ -1,0 +1,127 @@
+{
+  "version": "1.0",
+  "categoryId": 8012,
+  "lastUpdated": "2025-04-06T06:06:01.523Z",
+  "skills": {
+    "120100": {
+      "id": 120100,
+      "type": "normal",
+      "templateId": 10908,
+      "name": "Popori_M_Elementalist_Lv01_PreResurrection_Cast 01",
+      "category": [
+        8012,
+        19,
+        107,
+        10000,
+        9999
+      ],
+      "timeRate": 1.1,
+      "totalAtk": 0,
+      "class": "mystic",
+      "animationDuration": 0,
+      "pendingStartTime": 350,
+      "coolTime": 900000,
+      "mpCost": 125,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "120200": {
+      "id": 120200,
+      "type": "normal",
+      "templateId": 10908,
+      "name": "Popori_M_Elementalist_Lv02_PreResurrection_Cast 01",
+      "category": [
+        8012,
+        19,
+        107,
+        10000,
+        9999
+      ],
+      "timeRate": 1.1,
+      "totalAtk": 0,
+      "class": "mystic",
+      "animationDuration": 0,
+      "pendingStartTime": 350,
+      "coolTime": 20000,
+      "mpCost": 0,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "120300": {
+      "id": 120300,
+      "type": "normal",
+      "templateId": 10908,
+      "name": "Popori_M_Elementalist_Lv03_PreResurrection_Cast 01",
+      "category": [
+        8012,
+        19,
+        107,
+        10000,
+        9999
+      ],
+      "timeRate": 1.1,
+      "totalAtk": 0,
+      "class": "mystic",
+      "animationDuration": 0,
+      "pendingStartTime": 350,
+      "coolTime": 20000,
+      "mpCost": 0,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "120400": {
+      "id": 120400,
+      "type": "normal",
+      "templateId": 10908,
+      "name": "Popori_M_Elementalist_Lv04_PreResurrection_Cast 01",
+      "category": [
+        8012,
+        19,
+        107,
+        10000,
+        9999
+      ],
+      "timeRate": 1.1,
+      "totalAtk": 0,
+      "class": "mystic",
+      "animationDuration": 0,
+      "pendingStartTime": 350,
+      "coolTime": 20000,
+      "mpCost": 0,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "120500": {
+      "id": 120500,
+      "type": "normal",
+      "templateId": 10908,
+      "name": "Popori_M_Elementalist_Lv05_PreResurrection_Cast 01",
+      "category": [
+        8012,
+        19,
+        107,
+        10000,
+        9999
+      ],
+      "timeRate": 1.1,
+      "totalAtk": 0,
+      "class": "mystic",
+      "animationDuration": 0,
+      "pendingStartTime": 350,
+      "coolTime": 20000,
+      "mpCost": 0,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    }
+  }
+}

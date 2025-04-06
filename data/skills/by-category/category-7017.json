@@ -1,0 +1,145 @@
+{
+  "version": "1.0",
+  "categoryId": 7017,
+  "lastUpdated": "2025-04-06T06:06:01.518Z",
+  "skills": {
+    "170100": {
+      "id": 170100,
+      "type": "normal",
+      "templateId": 10907,
+      "name": "Popori_M_Priest_Lv01_Aggro Release_Cast 01",
+      "category": [
+        7017,
+        98,
+        10000,
+        9999
+      ],
+      "timeRate": 1.1,
+      "totalAtk": 0,
+      "class": "priest",
+      "animationDuration": 0,
+      "pendingStartTime": 2500,
+      "coolTime": 300000,
+      "mpCost": 250,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "170200": {
+      "id": 170200,
+      "type": "normal",
+      "templateId": 10907,
+      "name": "Popori_M_Priest_Lv02_Aggro Release_Cast 01",
+      "category": [
+        7017,
+        98,
+        10000,
+        9999
+      ],
+      "timeRate": 1.1,
+      "totalAtk": 0,
+      "class": "priest",
+      "animationDuration": 0,
+      "pendingStartTime": 2500,
+      "coolTime": 300000,
+      "mpCost": 250,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "170300": {
+      "id": 170300,
+      "type": "normal",
+      "templateId": 10907,
+      "name": "Popori_M_Priest_Lv03_Aggro Release_Cast 01",
+      "category": [
+        7017,
+        98,
+        10000,
+        9999
+      ],
+      "timeRate": 1.1,
+      "totalAtk": 0,
+      "class": "priest",
+      "animationDuration": 0,
+      "pendingStartTime": 2500,
+      "coolTime": 300000,
+      "mpCost": 250,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "170400": {
+      "id": 170400,
+      "type": "normal",
+      "templateId": 10907,
+      "name": "Popori_M_Priest_Lv04_Aggro Release_Cast 01",
+      "category": [
+        7017,
+        98,
+        10000,
+        9999
+      ],
+      "timeRate": 1.1,
+      "totalAtk": 0,
+      "class": "priest",
+      "animationDuration": 0,
+      "pendingStartTime": 2500,
+      "coolTime": 300000,
+      "mpCost": 250,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "170500": {
+      "id": 170500,
+      "type": "normal",
+      "templateId": 10907,
+      "name": "Popori_M_Priest_Lv05_Aggro Release_Cast 01",
+      "category": [
+        7017,
+        98,
+        10000,
+        9999
+      ],
+      "timeRate": 1.1,
+      "totalAtk": 0,
+      "class": "priest",
+      "animationDuration": 0,
+      "pendingStartTime": 2500,
+      "coolTime": 300000,
+      "mpCost": 250,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "170600": {
+      "id": 170600,
+      "type": "normal",
+      "templateId": 10907,
+      "name": "Popori_M_Priest_Lv06_Aggro Release_Cast 01",
+      "category": [
+        7017,
+        98,
+        10000,
+        9999
+      ],
+      "timeRate": 1.1,
+      "totalAtk": 0,
+      "class": "priest",
+      "animationDuration": 0,
+      "pendingStartTime": 2500,
+      "coolTime": 300000,
+      "mpCost": 250,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    }
+  }
+}
