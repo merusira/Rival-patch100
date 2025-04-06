@@ -1,0 +1,127 @@
+{
+  "version": "1.0",
+  "categoryId": 3005,
+  "lastUpdated": "2025-04-06T06:06:01.490Z",
+  "skills": {
+    "50100": {
+      "id": 50100,
+      "type": "movingSkill",
+      "templateId": 10903,
+      "name": "Popori_M_Slayer_Lv01_Dash_Start 01",
+      "category": [
+        3005,
+        84,
+        104,
+        10000,
+        9999
+      ],
+      "timeRate": 1,
+      "totalAtk": 0,
+      "class": "slayer",
+      "animationDuration": 0,
+      "pendingStartTime": 0,
+      "coolTime": 25000,
+      "mpCost": 100,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "50200": {
+      "id": 50200,
+      "type": "movingSkill",
+      "templateId": 10903,
+      "name": "Popori_M_Slayer_Lv02_Dash_Start 01",
+      "category": [
+        3005,
+        84,
+        104,
+        10000,
+        9999
+      ],
+      "timeRate": 1,
+      "totalAtk": 0,
+      "class": "slayer",
+      "animationDuration": 0,
+      "pendingStartTime": 0,
+      "coolTime": 25000,
+      "mpCost": 100,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "50300": {
+      "id": 50300,
+      "type": "movingSkill",
+      "templateId": 10903,
+      "name": "Popori_M_Slayer_Lv03_Dash_Start 01",
+      "category": [
+        3005,
+        84,
+        104,
+        10000,
+        9999
+      ],
+      "timeRate": 1,
+      "totalAtk": 0,
+      "class": "slayer",
+      "animationDuration": 0,
+      "pendingStartTime": 0,
+      "coolTime": 25000,
+      "mpCost": 100,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "50400": {
+      "id": 50400,
+      "type": "movingSkill",
+      "templateId": 10903,
+      "name": "Popori_M_Slayer_Lv04_Dash_Start 01",
+      "category": [
+        3005,
+        84,
+        104,
+        10000,
+        9999
+      ],
+      "timeRate": 1,
+      "totalAtk": 0,
+      "class": "slayer",
+      "animationDuration": 0,
+      "pendingStartTime": 0,
+      "coolTime": 25000,
+      "mpCost": 100,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    },
+    "50500": {
+      "id": 50500,
+      "type": "movingSkill",
+      "templateId": 10903,
+      "name": "Popori_M_Slayer_Lv05_Dash_Start 01",
+      "category": [
+        3005,
+        84,
+        104,
+        10000,
+        9999
+      ],
+      "timeRate": 1,
+      "totalAtk": 0,
+      "class": "slayer",
+      "animationDuration": 0,
+      "pendingStartTime": 0,
+      "coolTime": 25000,
+      "mpCost": 100,
+      "hpCost": 0,
+      "nextSkill": 0,
+      "movable": false,
+      "stages": []
+    }
+  }
+}
