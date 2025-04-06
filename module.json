@@ -1,0 +1,19 @@
+{
+    "disableAutoUpdate": false,
+    "name": "rival",
+    "author": "merusira",
+    "description": "Zero-ping client-side emulation mod for TeraToolbox",
+    "version": "1.0.0",
+    "options": {
+        "niceName": "Rival",
+        "guiName": "Rival",
+        "settingsVersion": 1,
+        "settingsFile": "settings.json",
+        "settingsMigrator": "settings_migrator.js"
+    },
+    "servers": ["https://raw.githubusercontent.com/merusira/Tera-Rival/master/"],
+    "supportUrl": "https://github.com/merusira/Tera-Rival/issues",
+    "dependencies": {
+        "tera-game-state": "https://raw.githubusercontent.com/caali-hackerman/tera-game-state/master/module.json"
+    }
+}
