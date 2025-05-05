@@ -1,0 +1,2421 @@
+{
+  "archer": {
+    "1": {
+      "name": "Arrow I",
+      "0": true
+    },
+    "2": {
+      "name": "Arrow Volley I",
+      "0": true,
+      "10": true
+    },
+    "3": {
+      "name": "Radiant Arrow I",
+      "0": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true
+    },
+    "4": {
+      "name": "Penetrating Arrow I",
+      "0": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true
+    },
+    "5": {
+      "name": "Rain of Arrows I",
+      "0": true,
+      "20": true,
+      "40": true,
+      "41": true,
+      "50": true,
+      "51": true
+    },
+    "6": {
+      "name": "Backstep",
+      "0": true
+    },
+    "7": {
+      "name": "Feign Death I",
+      "0": true
+    },
+    "8": {
+      "name": "Rapid Fire I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true,
+      "11": true,
+      "12": true
+    },
+    "9": {
+      "name": "Slow Trap I",
+      "0": true,
+      "20": true
+    },
+    "10": {
+      "name": "Stunning Trap I",
+      "0": true,
+      "20": true
+    },
+    "11": {
+      "name": "Poison Trap I",
+      "0": true,
+      "20": true
+    },
+    "12": {
+      "name": "Velik's Mark I",
+      "0": true
+    },
+    "13": {
+      "name": null,
+      "0": true
+    },
+    "14": {
+      "name": "Retaliate I",
+      "0": true
+    },
+    "15": {
+      "name": "Incendiary Trap I",
+      "0": true,
+      "20": true
+    },
+    "16": {
+      "name": "Breakaway Bolt I",
+      "0": true,
+      "30": true
+    },
+    "17": {
+      "name": "Web Arrow I",
+      "0": true
+    },
+    "18": {
+      "name": "Close Quarters I",
+      "0": true,
+      "1": true
+    },
+    "19": {
+      "name": "Poison Arrow I",
+      "0": true
+    },
+    "20": {
+      "name": "Restraining Arrow I",
+      "0": true
+    },
+    "21": {
+      "name": "Sniper's Eye I",
+      "0": true,
+      "50": true
+    },
+    "22": {
+      "name": "Sequential Fire I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true
+    },
+    "23": {
+      "name": "Stunning Trap Arrow I",
+      "0": true,
+      "20": true
+    },
+    "24": {
+      "name": "Snare I",
+      "0": true,
+      "1": true,
+      "3": true,
+      "20": true,
+      "21": true
+    },
+    "25": {
+      "name": "Incendiary Trap Arrow I",
+      "0": true,
+      "20": true
+    },
+    "26": {
+      "name": null,
+      "0": true
+    },
+    "27": {
+      "name": null,
+      "0": true
+    },
+    "29": {
+      "name": "Thunderbolt I",
+      "0": true,
+      "20": true
+    },
+    "31": {
+      "name": "Tenacity",
+      "0": true
+    },
+    "32": {
+      "name": "Find Weakness I",
+      "0": true
+    },
+    "33": {
+      "name": "Chase I",
+      "0": true
+    },
+    "34": {
+      "name": "Wind Walk I",
+      "0": true,
+      "10": true,
+      "20": true,
+      "30": true,
+      "40": true,
+      "50": true,
+      "60": true,
+      "70": true,
+      "80": true
+    },
+    "35": {
+      "name": "Windsong I",
+      "0": true,
+      "30": true,
+      "40": true
+    },
+    "36": {
+      "name": "Gust Arrow I",
+      "0": true,
+      "10": true,
+      "13": true,
+      "22": true,
+      "23": true,
+      "24": true
+    }
+  },
+  "berserker": {
+    "1": {
+      "name": "Combo Attack I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true
+    },
+    "2": {
+      "name": "Axe Block I",
+      "0": true,
+      "30": true,
+      "31": true
+    },
+    "3": {
+      "name": "Thunder Strike I",
+      "0": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true
+    },
+    "4": {
+      "name": "Flatten I",
+      "0": true,
+      "1": true,
+      "30": true,
+      "31": true
+    },
+    "5": {
+      "name": "Dash I",
+      "0": true
+    },
+    "6": {
+      "name": "Sweeping Strike I",
+      "0": true,
+      "30": true
+    },
+    "7": {
+      "name": "Mocking Shout",
+      "0": true
+    },
+    "8": {
+      "name": "Fiery Rage I",
+      "0": true,
+      "1": true,
+      "30": true
+    },
+    "10": {
+      "name": "Cyclone I",
+      "0": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true
+    },
+    "11": {
+      "name": "Leaping Strike I",
+      "0": true,
+      "10": true,
+      "20": true,
+      "21": true
+    },
+    "12": {
+      "name": "Unchained Anger I",
+      "0": true,
+      "30": true,
+      "31": true
+    },
+    "13": {
+      "name": "Retaliate I",
+      "0": true
+    },
+    "14": {
+      "name": null,
+      "0": true
+    },
+    "15": {
+      "name": "Vampiric Blow I",
+      "0": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true,
+      "14": true
+    },
+    "16": {
+      "name": "Fearsome Shout I",
+      "0": true,
+      "10": true,
+      "20": true
+    },
+    "18": {
+      "name": "Lethal Strike I",
+      "0": true,
+      "30": true
+    },
+    "19": {
+      "name": "Triumphant Shout I",
+      "0": true
+    },
+    "20": {
+      "name": "Inescapable Doom I",
+      "0": true
+    },
+    "21": {
+      "name": "Bloodlust I",
+      "0": true
+    },
+    "22": {
+      "name": null,
+      "0": true
+    },
+    "23": {
+      "name": null,
+      "0": true
+    },
+    "24": {
+      "name": "Evasive Smash I",
+      "0": true,
+      "5": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true
+    },
+    "25": {
+      "name": "Raze I",
+      "0": true,
+      "1": true,
+      "30": true,
+      "31": true
+    },
+    "26": {
+      "name": "Tackle",
+      "0": true,
+      "20": true
+    },
+    "27": {
+      "name": "Unbreakable",
+      "0": true,
+      "30": true
+    },
+    "28": {
+      "name": "Intimidation",
+      "0": true,
+      "50": true
+    },
+    "29": {
+      "name": "Evasive Roll",
+      "0": true
+    },
+    "30": {
+      "name": "Axe Counter",
+      "0": true,
+      "30": true
+    },
+    "31": {
+      "name": "Overwhelm I",
+      "0": true,
+      "1": true
+    },
+    "32": {
+      "name": "Punishing Strike",
+      "0": true,
+      "1": true
+    },
+    "33": {
+      "name": "Unleash",
+      "0": true
+    },
+    "34": {
+      "name": "Unleashed: Dexter",
+      "0": true,
+      "30": true,
+      "31": true
+    },
+    "35": {
+      "name": "Unleashed: Sinister",
+      "0": true,
+      "1": true,
+      "30": true,
+      "31": true
+    },
+    "36": {
+      "name": "Unleashed: Rampage",
+      "0": true,
+      "30": true,
+      "31": true
+    },
+    "37": {
+      "name": "Unleashed: Beast Fury",
+      "0": true,
+      "30": true
+    },
+    "38": {
+      "name": null,
+      "0": true
+    }
+  },
+  "lancer": {
+    "1": {
+      "name": "Combo Attack I",
+      "0": true,
+      "1": true,
+      "2": true
+    },
+    "2": {
+      "name": "Stand Fast I",
+      "0": true,
+      "30": true,
+      "40": true
+    },
+    "3": {
+      "name": "Onslaught I",
+      "0": true,
+      "30": true
+    },
+    "4": {
+      "name": "Challenging Shout I",
+      "0": true,
+      "30": true
+    },
+    "5": {
+      "name": "Shield Bash",
+      "0": true,
+      "1": true,
+      "2": true,
+      "30": true
+    },
+    "6": {
+      "name": null,
+      "0": true,
+      "20": true
+    },
+    "7": {
+      "name": "Guardian Shout I",
+      "0": true
+    },
+    "8": {
+      "name": "Shield Counter I",
+      "0": true
+    },
+    "9": {
+      "name": "Leash I",
+      "0": true
+    },
+    "10": {
+      "name": "Debilitate I",
+      "0": true,
+      "30": true
+    },
+    "11": {
+      "name": "Retaliate I",
+      "0": true
+    },
+    "12": {
+      "name": "Infuriate",
+      "0": true
+    },
+    "13": {
+      "name": "Spring Attack I",
+      "0": true,
+      "30": true
+    },
+    "14": {
+      "name": null,
+      "0": true
+    },
+    "15": {
+      "name": "Charging Lunge I",
+      "0": true,
+      "1": true
+    },
+    "16": {
+      "name": "Second Wind I",
+      "0": true
+    },
+    "17": {
+      "name": "Adrenaline Rush I",
+      "0": true,
+      "40": true,
+      "50": true
+    },
+    "18": {
+      "name": "Shield Barrage I",
+      "0": true,
+      "1": true
+    },
+    "19": {
+      "name": "Pledge of Protection",
+      "0": true
+    },
+    "21": {
+      "name": "Lockdown Blow I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "30": true
+    },
+    "22": {
+      "name": "Iron Will I",
+      "0": true
+    },
+    "23": {
+      "name": "Master's Leash I",
+      "0": true
+    },
+    "24": {
+      "name": "Chained Leash",
+      "0": true,
+      "1": true,
+      "2": true,
+      "21": true,
+      "22": true
+    },
+    "25": {
+      "name": "Wallop I",
+      "0": true,
+      "30": true
+    },
+    "26": {
+      "name": "Backstep",
+      "0": true
+    },
+    "27": {
+      "name": "Rallying Cry",
+      "0": true
+    },
+    "28": {
+      "name": "Super Leap",
+      "0": true,
+      "1": true
+    },
+    "29": {
+      "name": "Guardian Barrier",
+      "0": true
+    },
+    "30": {
+      "name": "Divine Protection",
+      "0": true
+    }
+  },
+  "mystic": {
+    "1": {
+      "name": "Sharan Bolt I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true
+    },
+    "2": {
+      "name": "Corruption Ring I",
+      "0": true,
+      "11": true,
+      "12": true
+    },
+    "4": {
+      "name": "Ancient Binding I",
+      "0": true,
+      "20": true
+    },
+    "5": {
+      "name": "Titanic Favor I",
+      "0": true,
+      "10": true
+    },
+    "6": {
+      "name": "Shara's Lash",
+      "0": true,
+      "20": true
+    },
+    "7": {
+      "name": "Mana Infusion",
+      "0": true
+    },
+    "8": {
+      "name": "Metamorphic Blast I",
+      "0": true,
+      "30": true
+    },
+    "9": {
+      "name": "Arun's Cleansing Touch",
+      "0": true,
+      "10": true
+    },
+    "10": {
+      "name": "Resurrect",
+      "0": true
+    },
+    "11": {
+      "name": "Summon: Group",
+      "0": true
+    },
+    "12": {
+      "name": "Vow of Rebirth",
+      "0": true,
+      "10": true
+    },
+    "13": {
+      "name": "Aura of the Merciless I",
+      "0": true,
+      "50": true
+    },
+    "14": {
+      "name": "Aura of the Swift I",
+      "0": true,
+      "50": true
+    },
+    "15": {
+      "name": "Aura of the Unyielding I",
+      "0": true,
+      "50": true
+    },
+    "16": {
+      "name": "Aura of the Tenacious",
+      "0": true,
+      "50": true
+    },
+    "17": {
+      "name": "Teleport Jaunt",
+      "0": true
+    },
+    "18": {
+      "name": "Arun's Vitae I",
+      "0": true,
+      "10": true
+    },
+    "19": {
+      "name": null,
+      "0": true
+    },
+    "20": {
+      "name": null,
+      "0": true
+    },
+    "21": {
+      "name": "Retaliate I",
+      "0": true
+    },
+    "22": {
+      "name": "Arun's Tears",
+      "0": true,
+      "10": true
+    },
+    "23": {
+      "name": "Metamorphic Smite I",
+      "0": true,
+      "30": true
+    },
+    "24": {
+      "name": "Volley of Curses I",
+      "0": true,
+      "10": true
+    },
+    "25": {
+      "name": "Thrall of Protection I",
+      "0": true,
+      "10": true,
+      "30": true
+    },
+    "26": {
+      "name": null,
+      "0": true
+    },
+    "27": {
+      "name": "Thrall of Life I",
+      "0": true,
+      "10": true,
+      "30": true
+    },
+    "28": {
+      "name": "Sonorous Dreams I",
+      "0": true,
+      "10": true
+    },
+    "29": {
+      "name": "Regression I",
+      "0": true
+    },
+    "30": {
+      "name": "Curse of Exhaustion I",
+      "0": true,
+      "10": true
+    },
+    "31": {
+      "name": "Curse of Confusion",
+      "0": true,
+      "10": true
+    },
+    "32": {
+      "name": "Mire I",
+      "0": true,
+      "10": true
+    },
+    "33": {
+      "name": "Thrall of Vengeance I",
+      "0": true,
+      "10": true,
+      "30": true
+    },
+    "34": {
+      "name": "Thrall of Wrath I",
+      "0": true,
+      "10": true,
+      "30": true
+    },
+    "35": {
+      "name": "Command: Attack",
+      "0": true
+    },
+    "36": {
+      "name": "Command: Follow",
+      "0": true
+    },
+    "37": {
+      "name": "Warding Totem I",
+      "0": true
+    },
+    "38": {
+      "name": "Numbing Totem",
+      "0": true
+    },
+    "39": {
+      "name": "Speed Totem",
+      "0": true
+    },
+    "40": {
+      "name": "Assailing Totem",
+      "0": true
+    },
+    "41": {
+      "name": "Contagion I",
+      "0": true,
+      "10": true
+    },
+    "42": {
+      "name": "Boomerang Pulse I",
+      "0": true,
+      "20": true
+    },
+    "43": {
+      "name": "Unsummon Thrall",
+      "0": true
+    },
+    "44": {
+      "name": "Mass Teleport",
+      "0": true
+    },
+    "45": {
+      "name": "Thrall Augmentation",
+      "0": true,
+      "50": true
+    },
+    "47": {
+      "name": "Arunic Release",
+      "0": true
+    },
+    "48": {
+      "name": "Summon: Thrall Lord",
+      "0": true
+    }
+  },
+  "priest": {
+    "1": {
+      "name": "Divine Radiance I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true,
+      "20": true,
+      "21": true,
+      "22": true,
+      "23": true
+    },
+    "2": {
+      "name": "Regeneration Circle I",
+      "0": true
+    },
+    "3": {
+      "name": "Healing Circle I",
+      "0": true,
+      "30": true
+    },
+    "5": {
+      "name": "Blessing of Shakan I",
+      "0": true
+    },
+    "6": {
+      "name": "Arise I",
+      "0": true
+    },
+    "8": {
+      "name": "Mana Infusion",
+      "0": true
+    },
+    "10": {
+      "name": "Purifying Circle",
+      "0": true
+    },
+    "11": {
+      "name": "Metamorphic Blast I",
+      "0": true,
+      "1": true,
+      "2": true
+    },
+    "12": {
+      "name": "Resurrect",
+      "0": true
+    },
+    "14": {
+      "name": "Summon: Group",
+      "0": true
+    },
+    "16": {
+      "name": "Shocking Implosion I",
+      "0": true,
+      "30": true,
+      "10": true,
+      "11": true,
+      "20": true,
+      "21": true
+    },
+    "18": {
+      "name": "Heal Thyself I",
+      "0": true
+    },
+    "19": {
+      "name": "Focus Heal I",
+      "0": true,
+      "10": true
+    },
+    "22": {
+      "name": "Kaia's Shield I",
+      "0": true
+    },
+    "24": {
+      "name": null,
+      "0": true
+    },
+    "25": {
+      "name": "Retaliate I",
+      "0": true
+    },
+    "26": {
+      "name": "Fiery Escape I",
+      "0": true
+    },
+    "27": {
+      "name": "Final Reprisal I",
+      "0": true,
+      "30": true,
+      "10": true,
+      "11": true,
+      "20": true,
+      "21": true
+    },
+    "28": {
+      "name": "Mana Charge",
+      "0": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true
+    },
+    "29": {
+      "name": "Triple Nemesis I",
+      "0": true,
+      "1": true,
+      "2": true
+    },
+    "30": {
+      "name": "Plague of Exhaustion I",
+      "0": true,
+      "10": true
+    },
+    "31": {
+      "name": "Guardian Sanctuary I",
+      "0": true
+    },
+    "32": {
+      "name": "Divine Prayer I",
+      "0": true
+    },
+    "33": {
+      "name": "Ishara's Lullaby I",
+      "0": true,
+      "10": true
+    },
+    "34": {
+      "name": "Restorative Burst I",
+      "0": true,
+      "20": true
+    },
+    "35": {
+      "name": "Energy Stars I",
+      "0": true,
+      "10": true
+    },
+    "36": {
+      "name": "Epiphany of the Goddess I",
+      "0": true
+    },
+    "37": {
+      "name": "Healing Immersion I",
+      "0": true,
+      "10": true
+    },
+    "38": {
+      "name": "Backstep",
+      "0": true
+    },
+    "39": {
+      "name": "Grace of Resurrection",
+      "0": true
+    },
+    "40": {
+      "name": "Zenobia's Vortex I",
+      "0": true,
+      "20": true,
+      "10": true,
+      "12": true,
+      "22": true
+    },
+    "41": {
+      "name": "Divine Intervention",
+      "0": true,
+      "10": true
+    },
+    "42": {
+      "name": "Holy Burst",
+      "0": true,
+      "20": true,
+      "21": true,
+      "22": true,
+      "23": true,
+      "30": true,
+      "31": true,
+      "32": true,
+      "33": true
+    },
+    "43": {
+      "name": "Edict of Judgment",
+      "0": true,
+      "50": true
+    }
+  },
+  "slayer": {
+    "1": {
+      "name": "Combo Attack I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true
+    },
+    "2": {
+      "name": "Knockdown Strike I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "30": true
+    },
+    "3": {
+      "name": "Whirlwind I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "30": true
+    },
+    "4": {
+      "name": "Evasive Roll",
+      "0": true,
+      "30": true
+    },
+    "5": {
+      "name": "Dash I",
+      "0": true
+    },
+    "6": {
+      "name": "Backstab I",
+      "0": true
+    },
+    "8": {
+      "name": "Overhand Strike I",
+      "0": true,
+      "30": true
+    },
+    "9": {
+      "name": "Leaping Strike I",
+      "0": true
+    },
+    "10": {
+      "name": "Retaliate I",
+      "0": true
+    },
+    "11": {
+      "name": null,
+      "0": true
+    },
+    "12": {
+      "name": "Heart Thrust I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "30": true
+    },
+    "13": {
+      "name": "Stunning Backhand I",
+      "0": true
+    },
+    "14": {
+      "name": "Distant Blade I",
+      "0": true,
+      "1": true,
+      "2": true
+    },
+    "15": {
+      "name": "Startling Kick I",
+      "0": true
+    },
+    "16": {
+      "name": "Fury Strike I",
+      "0": true
+    },
+    "17": {
+      "name": "Headlong Rush I",
+      "0": true
+    },
+    "18": {
+      "name": "Overpower I",
+      "0": true,
+      "50": true
+    },
+    "19": {
+      "name": "Tenacity I",
+      "0": true
+    },
+    "20": {
+      "name": "In Cold Blood I",
+      "0": true
+    },
+    "21": {
+      "name": "Exhausting Blow",
+      "0": true
+    },
+    "22": {
+      "name": null,
+      "0": true
+    },
+    "23": {
+      "name": "Measured Slice I",
+      "0": true,
+      "30": true
+    },
+    "24": {
+      "name": "Eviscerate I",
+      "0": true,
+      "30": true
+    },
+    "25": {
+      "name": "Ultimate Overhand Strike I",
+      "0": true,
+      "30": true
+    },
+    "26": {
+      "name": "Punishing Blow",
+      "0": true,
+      "30": true
+    },
+    "27": {
+      "name": "Savage Strike",
+      "0": true,
+      "30": true,
+      "31": true,
+      "90": true
+    },
+    "28": {
+      "name": "Unsheathe",
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true
+    }
+  },
+  "sorcerer": {
+    "1": {
+      "name": "Fireball I",
+      "0": true
+    },
+    "2": {
+      "name": "Frost Sphere I",
+      "0": true,
+      "20": true,
+      "21": true
+    },
+    "3": {
+      "name": "Lightning Trap I",
+      "0": true,
+      "20": true
+    },
+    "4": {
+      "name": "Arcane Pulse I",
+      "0": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true,
+      "20": true,
+      "21": true,
+      "22": true,
+      "23": true
+    },
+    "5": {
+      "name": "Mana Infusion I",
+      "0": true
+    },
+    "6": {
+      "name": "Meteor Strike I",
+      "0": true,
+      "10": true,
+      "20": true
+    },
+    "7": {
+      "name": "Backstep",
+      "0": true
+    },
+    "8": {
+      "name": "Flame Pillar I",
+      "0": true
+    },
+    "10": {
+      "name": "Mana Barrier I",
+      "0": true
+    },
+    "11": {
+      "name": "Lightning Strike I",
+      "0": true,
+      "40": true
+    },
+    "12": {
+      "name": "Void Pulse I",
+      "0": true,
+      "20": true
+    },
+    "13": {
+      "name": "Mindblast I",
+      "0": true
+    },
+    "14": {
+      "name": "Retaliate I",
+      "0": true
+    },
+    "15": {
+      "name": null,
+      "0": true
+    },
+    "16": {
+      "name": "Painblast I",
+      "0": true
+    },
+    "17": {
+      "name": "Painful Trap I",
+      "0": true,
+      "20": true
+    },
+    "18": {
+      "name": "Glacial Retreat I",
+      "0": true
+    },
+    "19": {
+      "name": "Mana Siphon",
+      "0": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "13": true
+    },
+    "20": {
+      "name": "Flaming Barrage I",
+      "0": true,
+      "10": true
+    },
+    "21": {
+      "name": "Nerve Exhaustion",
+      "0": true,
+      "10": true
+    },
+    "22": {
+      "name": "Burning Breath I",
+      "0": true,
+      "10": true
+    },
+    "23": {
+      "name": "Mana Volley I",
+      "0": true,
+      "10": true
+    },
+    "25": {
+      "name": "Time Gyre I",
+      "0": true,
+      "10": true
+    },
+    "26": {
+      "name": "Teleport Jaunt",
+      "0": true
+    },
+    "27": {
+      "name": "Hail Storm I",
+      "0": true,
+      "20": true,
+      "30": true,
+      "31": true
+    },
+    "28": {
+      "name": "Stone Skin",
+      "0": true,
+      "50": true
+    },
+    "29": {
+      "name": "Vortex Prison I",
+      "0": true,
+      "20": true
+    },
+    "30": {
+      "name": "Nova I",
+      "0": true
+    },
+    "31": {
+      "name": "Warp Barrier",
+      "0": true,
+      "10": true,
+      "20": true
+    },
+    "32": {
+      "name": null,
+      "0": true,
+      "10": true,
+      "20": true,
+      "50": true,
+      "51": true,
+      "52": true
+    },
+    "33": {
+      "name": null,
+      "0": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "20": true,
+      "21": true,
+      "22": true,
+      "23": true,
+      "24": true,
+      "25": true,
+      "26": true,
+      "27": true,
+      "40": true,
+      "50": true,
+      "51": true,
+      "52": true,
+      "53": true,
+      "60": true,
+      "61": true,
+      "62": true,
+      "63": true
+    },
+    "34": {
+      "name": "Mana Boost I",
+      "0": true,
+      "30": true,
+      "40": true
+    },
+    "35": {
+      "name": "Ice Lances",
+      "0": true,
+      "16": true,
+      "20": true
+    },
+    "36": {
+      "name": "Fusion",
+      "0": true,
+      "20": true,
+      "21": true,
+      "22": true,
+      "24": true,
+      "30": true,
+      "40": true,
+      "50": true,
+      "60": true,
+      "70": true,
+      "80": true
+    },
+    "39": {
+      "name": "Implosion",
+      "0": true,
+      "20": true
+    },
+    "41": {
+      "name": null,
+      "5": true
+    }
+  },
+  "warrior": {
+    "1": {
+      "name": "Combo Attack I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true
+    },
+    "2": {
+      "name": "Evasive Roll",
+      "0": true
+    },
+    "3": {
+      "name": "Torrent of Blows I",
+      "0": true
+    },
+    "4": {
+      "name": "Rain of Blows I",
+      "0": true,
+      "30": true
+    },
+    "5": {
+      "name": "Battle Cry I",
+      "0": true
+    },
+    "7": {
+      "name": null,
+      "0": true
+    },
+    "8": {
+      "name": "Assault Stance I",
+      "0": true,
+      "50": true
+    },
+    "9": {
+      "name": "Defensive Stance I",
+      "0": true,
+      "50": true
+    },
+    "10": {
+      "name": "Death From Above I",
+      "0": true
+    },
+    "11": {
+      "name": "Poison Blade I",
+      "0": true
+    },
+    "12": {
+      "name": "Leaping Strike I",
+      "0": true
+    },
+    "13": {
+      "name": "Retaliate I",
+      "0": true
+    },
+    "15": {
+      "name": null,
+      "0": true
+    },
+    "16": {
+      "name": "Charging Slash I",
+      "0": true,
+      "1": true
+    },
+    "17": {
+      "name": "Vortex Slash I",
+      "0": true,
+      "1": true,
+      "2": true
+    },
+    "18": {
+      "name": "Combative Strike I",
+      "0": true,
+      "1": true,
+      "2": true
+    },
+    "19": {
+      "name": "Rising Fury I",
+      "0": true,
+      "1": true
+    },
+    "20": {
+      "name": "Deadly Gamble I",
+      "0": true
+    },
+    "21": {
+      "name": "Cascade of Stuns I",
+      "0": true
+    },
+    "22": {
+      "name": "Backstab I",
+      "0": true,
+      "1": true,
+      "2": true
+    },
+    "23": {
+      "name": "Spinning Counter I",
+      "0": true
+    },
+    "24": {
+      "name": "Smoke Aggressor I",
+      "0": true
+    },
+    "25": {
+      "name": "Command: Attack",
+      "0": true
+    },
+    "26": {
+      "name": "Command: Follow",
+      "0": true
+    },
+    "28": {
+      "name": "Traverse Cut I",
+      "0": true,
+      "30": true
+    },
+    "29": {
+      "name": "Blade Draw I",
+      "0": true,
+      "30": true
+    },
+    "30": {
+      "name": "Scythe I",
+      "0": true,
+      "30": true
+    },
+    "31": {
+      "name": "Reaping Slash I",
+      "0": true,
+      "30": true
+    },
+    "32": {
+      "name": "Cross Parry",
+      "0": true
+    },
+    "33": {
+      "name": "Smoke Flanker I",
+      "0": true
+    },
+    "34": {
+      "name": "Binding Sword",
+      "0": true
+    },
+    "35": {
+      "name": "Infuriate I",
+      "0": true
+    },
+    "36": {
+      "name": "Rain of Blows XI",
+      "0": true,
+      "30": true
+    },
+    "37": {
+      "name": "Blade Draw IX",
+      "0": true,
+      "30": true
+    },
+    "38": {
+      "name": "Scythe II",
+      "0": true,
+      "30": true
+    },
+    "39": {
+      "name": "Traverse Cut X",
+      "0": true,
+      "30": true
+    },
+    "40": {
+      "name": "Blade Waltz",
+      "0": true,
+      "10": true,
+      "11": true,
+      "12": true,
+      "19": true,
+      "20": true,
+      "21": true,
+      "22": true,
+      "29": true
+    },
+    "41": {
+      "name": "Aerial Scythe",
+      "0": true,
+      "30": true,
+      "31": true,
+      "90": true
+    },
+    "42": {
+      "name": "Blade Frenzy",
+      "0": true,
+      "30": true
+    }
+  },
+  "gunner": {
+    "1": {
+      "name": "Blast I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "20": true
+    },
+    "2": {
+      "name": "Bombardment I",
+      "0": true,
+      "1": true,
+      "20": true
+    },
+    "3": {
+      "name": "Scattershot I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "30": true
+    },
+    "4": {
+      "name": "Point Blank I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "30": true
+    },
+    "5": {
+      "name": "Burst Fire I",
+      "0": true,
+      "1": true,
+      "10": true,
+      "11": true,
+      "20": true,
+      "21": true,
+      "31": true,
+      "32": true
+    },
+    "6": {
+      "name": "Time Bomb I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "20": true,
+      "21": true,
+      "22": true
+    },
+    "7": {
+      "name": "Arcane Barrage I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true,
+      "20": true,
+      "21": true,
+      "22": true,
+      "30": true,
+      "31": true,
+      "32": true,
+      "33": true,
+      "50": true,
+      "51": true,
+      "52": true
+    },
+    "9": {
+      "name": "Mana Missiles I",
+      "0": true,
+      "10": true,
+      "11": true,
+      "20": true,
+      "21": true,
+      "22": true,
+      "23": true,
+      "24": true,
+      "25": true,
+      "26": true,
+      "27": true,
+      "12": true,
+      "31": true,
+      "32": true,
+      "33": true,
+      "34": true,
+      "35": true
+    },
+    "10": {
+      "name": "Arc Bomb I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "20": true,
+      "21": true,
+      "22": true,
+      "23": true,
+      "24": true,
+      "30": true
+    },
+    "11": {
+      "name": "Rocket Jump I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "30": true,
+      "31": true
+    },
+    "12": {
+      "name": null,
+      "20": true
+    },
+    "13": {
+      "name": "Balder's Vengeance I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "20": true,
+      "30": true
+    },
+    "15": {
+      "name": "Replenishment I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "30": true
+    },
+    "18": {
+      "name": "HB-1",
+      "0": true,
+      "1": true,
+      "2": true,
+      "20": true,
+      "21": true,
+      "22": true,
+      "31": true
+    },
+    "19": {
+      "name": "ST-1",
+      "0": true,
+      "1": true,
+      "2": true,
+      "20": true,
+      "21": true,
+      "30": true
+    },
+    "20": {
+      "name": "Retaliate I",
+      "0": true
+    },
+    "21": {
+      "name": "Command: Recall I",
+      "0": true
+    },
+    "22": {
+      "name": "Command: Self-Destruct",
+      "0": true
+    },
+    "23": {
+      "name": "Command: Stay/Follow",
+      "0": true,
+      "1": true,
+      "2": true
+    },
+    "40": {
+      "name": "Rolling Reload",
+      "0": true,
+      "1": true,
+      "2": true,
+      "31": true,
+      "32": true
+    },
+    "41": {
+      "name": "Modular Weapon System",
+      "0": true,
+      "1": true,
+      "2": true,
+      "30": true
+    },
+    "42": {
+      "name": null,
+      "1": true,
+      "20": true,
+      "21": true,
+      "22": true
+    },
+    "43": {
+      "name": "Remote Trigger",
+      "0": true,
+      "1": true,
+      "3": true,
+      "20": true,
+      "21": true,
+      "22": true,
+      "30": true,
+      "31": true,
+      "40": true,
+      "50": true,
+      "51": true,
+      "90": true
+    },
+    "44": {
+      "name": null,
+      "1": true,
+      "20": true,
+      "30": true
+    },
+    "47": {
+      "name": "Obliteration",
+      "0": true,
+      "1": true,
+      "2": true,
+      "30": true,
+      "40": true,
+      "50": true,
+      "51": true,
+      "52": true,
+      "53": true,
+      "54": true,
+      "55": true,
+      "56": true,
+      "57": true,
+      "58": true,
+      "59": true,
+      "60": true,
+      "61": true,
+      "70": true
+    },
+    "51": {
+      "name": null,
+      "20": true
+    },
+    "52": {
+      "name": null,
+      "20": true
+    }
+  },
+  "valkyrie": {
+    "1": {
+      "name": "Slash I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true,
+      "30": true,
+      "99": true
+    },
+    "2": {
+      "name": "Overhead Slash I",
+      "0": true,
+      "30": true,
+      "99": true
+    },
+    "3": {
+      "name": "Glaive Strike I",
+      "0": true,
+      "30": true,
+      "99": true
+    },
+    "4": {
+      "name": "Charge I",
+      "0": true,
+      "10": true,
+      "11": true,
+      "99": true
+    },
+    "5": {
+      "name": "Maelstrom I",
+      "0": true,
+      "30": true,
+      "99": true
+    },
+    "6": {
+      "name": "Leaping Slash I",
+      "0": true,
+      "30": true,
+      "99": true
+    },
+    "7": {
+      "name": "Spinning Death I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "30": true,
+      "99": true
+    },
+    "8": {
+      "name": "Titansbane I",
+      "0": true,
+      "1": true,
+      "30": true,
+      "99": true
+    },
+    "9": {
+      "name": "Ground Bash I",
+      "0": true,
+      "30": true,
+      "99": true
+    },
+    "10": {
+      "name": "Dream Slash I",
+      "0": true,
+      "20": true,
+      "30": true,
+      "99": true
+    },
+    "11": {
+      "name": "Shining Crescent I",
+      "0": true,
+      "1": true,
+      "30": true,
+      "31": true,
+      "99": true
+    },
+    "12": {
+      "name": "Ragnarok I",
+      "0": true,
+      "30": true,
+      "99": true
+    },
+    "13": {
+      "name": "Bloodflower I",
+      "0": true,
+      "30": true,
+      "99": true
+    },
+    "14": {
+      "name": "Evasion I",
+      "0": true,
+      "1": true,
+      "99": true
+    },
+    "15": {
+      "name": "Windslash I",
+      "0": true,
+      "30": true,
+      "99": true
+    },
+    "16": {
+      "name": "Runeburst I",
+      "0": true,
+      "20": true,
+      "30": true,
+      "99": true
+    },
+    "17": {
+      "name": "Balder's Tears",
+      "0": true,
+      "99": true
+    },
+    "18": {
+      "name": "Retaliate I",
+      "0": true,
+      "99": true
+    },
+    "19": {
+      "name": "Reclamation I",
+      "0": true,
+      "30": true,
+      "99": true
+    },
+    "20": {
+      "name": "Backstab I",
+      "0": true,
+      "99": true
+    },
+    "21": {
+      "name": "Dark Herald I",
+      "0": true,
+      "20": true,
+      "99": true
+    },
+    "23": {
+      "name": "Gungnir's Bite",
+      "0": true,
+      "1": true,
+      "2": true,
+      "9": true,
+      "99": true
+    },
+    "24": {
+      "name": "Twilight Waltz",
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "9": true,
+      "99": true
+    },
+    "25": {
+      "name": "Godsfall",
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true,
+      "9": true,
+      "31": true,
+      "32": true,
+      "99": true
+    }
+  },
+  "brawler": {
+    "1": {
+      "name": "Punch I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true,
+      "30": true,
+      "31": true,
+      "32": true
+    },
+    "2": {
+      "name": "Counter I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "10": true,
+      "11": true,
+      "12": true
+    },
+    "3": {
+      "name": "Divine Wrath I",
+      "0": true,
+      "1": true,
+      "20": true
+    },
+    "4": {
+      "name": "Ground Pounder I",
+      "0": true,
+      "30": true
+    },
+    "5": {
+      "name": "Bull Rush I",
+      "0": true
+    },
+    "6": {
+      "name": "Haymaker I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "30": true,
+      "31": true,
+      "40": true,
+      "41": true,
+      "42": true,
+      "46": true,
+      "47": true,
+      "50": true,
+      "51": true,
+      "52": true,
+      "56": true,
+      "57": true,
+      "60": true,
+      "61": true,
+      "62": true,
+      "66": true,
+      "67": true
+    },
+    "7": {
+      "name": "Roundhouse Kick I",
+      "0": true,
+      "30": true
+    },
+    "8": {
+      "name": "Piledriver I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "30": true,
+      "31": true
+    },
+    "9": {
+      "name": "Jackhammer I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "30": true,
+      "31": true
+    },
+    "10": {
+      "name": "Counterpunch I",
+      "0": true,
+      "30": true
+    },
+    "12": {
+      "name": "Retaliate I",
+      "0": true
+    },
+    "13": {
+      "name": "Provoke I",
+      "0": true,
+      "1": true,
+      "2": true
+    },
+    "14": {
+      "name": "Infuriate",
+      "0": true,
+      "1": true,
+      "2": true,
+      "30": true
+    },
+    "15": {
+      "name": "High Kick I",
+      "0": true,
+      "30": true
+    },
+    "16": {
+      "name": "Flip Kick I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "30": true
+    },
+    "17": {
+      "name": "Rampage I",
+      "0": true,
+      "10": true
+    },
+    "18": {
+      "name": "Growing Fury",
+      "0": true,
+      "1": true,
+      "2": true,
+      "30": true,
+      "40": true,
+      "41": true,
+      "42": true,
+      "43": true,
+      "60": true,
+      "61": true,
+      "62": true,
+      "63": true
+    },
+    "19": {
+      "name": "Invigorating Rage",
+      "0": true,
+      "1": true,
+      "2": true
+    },
+    "20": {
+      "name": "Meat Grinder I",
+      "0": true
+    },
+    "21": {
+      "name": "Mounting Rage",
+      "0": true,
+      "1": true,
+      "2": true
+    },
+    "22": {
+      "name": "Flying Kick",
+      "0": true,
+      "30": true
+    },
+    "24": {
+      "name": "One-Inch Punch",
+      "0": true,
+      "1": true,
+      "2": true,
+      "30": true,
+      "31": true
+    },
+    "26": {
+      "name": "Rhythmic Blows",
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true
+    },
+    "27": {
+      "name": "One-inch Punch range check",
+      "0": true
+    },
+    "40": {
+      "name": "Quick Dash",
+      "0": true,
+      "30": true
+    }
+  },
+  "ninja": {
+    "1": {
+      "name": "Combo Attack I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "30": true,
+      "40": true,
+      "41": true,
+      "42": true,
+      "43": true,
+      "44": true,
+      "45": true,
+      "46": true,
+      "70": true
+    },
+    "2": {
+      "name": "Shadow Jump",
+      "0": true,
+      "30": true
+    },
+    "3": {
+      "name": "Leaves on the Wind I",
+      "0": true,
+      "20": true,
+      "30": true,
+      "21": true,
+      "40": true
+    },
+    "4": {
+      "name": "Jagged Path I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "10": true,
+      "11": true
+    },
+    "5": {
+      "name": "Impact Bomb I",
+      "0": true,
+      "20": true,
+      "21": true,
+      "30": true
+    },
+    "6": {
+      "name": "One Thousand Cuts I",
+      "0": true,
+      "1": true,
+      "10": true,
+      "30": true
+    },
+    "7": {
+      "name": "Decoy Jutsu I",
+      "0": true
+    },
+    "8": {
+      "name": "Fire Avalanche I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "30": true,
+      "3": true,
+      "31": true,
+      "51": true,
+      "52": true
+    },
+    "9": {
+      "name": "Smoke Bomb",
+      "0": true,
+      "20": true,
+      "21": true,
+      "30": true,
+      "31": true
+    },
+    "10": {
+      "name": "Retaliate I",
+      "0": true
+    },
+    "11": {
+      "name": "Focus",
+      "0": true,
+      "50": true
+    },
+    "12": {
+      "name": "Skyfall I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "30": true
+    },
+    "13": {
+      "name": "Circle of Steel I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "30": true
+    },
+    "14": {
+      "name": "Double Cut I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "30": true
+    },
+    "15": {
+      "name": "Burning Heart I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true,
+      "6": true,
+      "7": true,
+      "8": true,
+      "9": true,
+      "20": true,
+      "10": true,
+      "31": true,
+      "32": true
+    },
+    "16": {
+      "name": "Death Blossom I",
+      "0": true,
+      "20": true,
+      "21": true,
+      "30": true
+    },
+    "17": {
+      "name": "Attunement",
+      "0": true,
+      "30": true
+    },
+    "18": {
+      "name": "Bladestorm I",
+      "0": true,
+      "20": true,
+      "21": true,
+      "22": true,
+      "30": true
+    },
+    "19": {
+      "name": "Chakra Thrust I",
+      "0": true,
+      "30": true
+    },
+    "20": {
+      "name": "Clone Jutsu",
+      "0": true
+    },
+    "21": {
+      "name": "Boomerang Shuriken",
+      "0": true,
+      "11": true,
+      "12": true,
+      "13": true,
+      "15": true,
+      "16": true,
+      "17": true,
+      "18": true,
+      "20": true,
+      "21": true,
+      "22": true,
+      "23": true,
+      "24": true,
+      "25": true,
+      "30": true,
+      "31": true,
+      "32": true,
+      "33": true,
+      "34": true,
+      "35": true,
+      "40": true,
+      "41": true,
+      "42": true,
+      "43": true,
+      "44": true,
+      "45": true,
+      "50": true,
+      "51": true,
+      "90": true,
+      "91": true
+    },
+    "22": {
+      "name": "Quick Attack",
+      "0": true,
+      "10": true,
+      "20": true,
+      "30": true,
+      "40": true,
+      "50": true,
+      "60": true,
+      "99": true
+    },
+    "23": {
+      "name": "Inner Harmony",
+      "0": true,
+      "30": true
+    }
+  },
+  "reaper": {
+    "1": {
+      "name": "Spiral Barrage I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true,
+      "4": true,
+      "5": true
+    },
+    "3": {
+      "name": "Double Shear I",
+      "0": true,
+      "30": true,
+      "40": true,
+      "41": true
+    },
+    "4": {
+      "name": "Sundering Strike I",
+      "0": true,
+      "20": true,
+      "30": true,
+      "31": true,
+      "40": true,
+      "50": true,
+      "60": true,
+      "61": true
+    },
+    "5": {
+      "name": "Grim Strike I",
+      "0": true,
+      "30": true,
+      "31": true,
+      "32": true
+    },
+    "6": {
+      "name": "Death Spiral I",
+      "0": true,
+      "30": true,
+      "31": true,
+      "90": true,
+      "40": true,
+      "41": true,
+      "42": true
+    },
+    "7": {
+      "name": "Final Judgment I",
+      "0": true,
+      "1": true,
+      "10": true
+    },
+    "8": {
+      "name": "Whipsaw I",
+      "0": true,
+      "30": true,
+      "40": true,
+      "41": true
+    },
+    "9": {
+      "name": "Smite",
+      "0": true,
+      "30": true
+    },
+    "10": {
+      "name": "Pendulum Strike I",
+      "0": true,
+      "30": true,
+      "40": true,
+      "41": true
+    },
+    "11": {
+      "name": "Shadow Lash I",
+      "0": true,
+      "1": true,
+      "2": true,
+      "3": true,
+      "90": true
+    },
+    "12": {
+      "name": "Shadow Burst I",
+      "0": true,
+      "1": true,
+      "30": true,
+      "31": true
+    },
+    "13": {
+      "name": "Soul Reversal",
+      "0": true,
+      "20": true,
+      "30": true,
+      "40": true
+    },
+    "14": {
+      "name": "Retaliate I",
+      "0": true
+    },
+    "15": {
+      "name": "Retribution I",
+      "0": true,
+      "80": true,
+      "30": true,
+      "81": true,
+      "82": true
+    },
+    "16": {
+      "name": "Shadow Reaping",
+      "0": true
+    },
+    "17": {
+      "name": "Spirit Gallows",
+      "0": true,
+      "10": true
+    },
+    "18": {
+      "name": "Shrouded Escape",
+      "0": true
+    },
+    "19": {
+      "name": "Dark Harvest",
+      "0": true,
+      "30": true
+    },
+    "20": {
+      "name": "Cable Step",
+      "0": true
+    },
+    "21": {
+      "name": "Recall Scythes",
+      "0": true,
+      "30": true
+    },
+    "23": {
+      "name": "Binding Scythes",
+      "0": true,
+      "31": true,
+      "32": true,
+      "33": true,
+      "34": true
+    },
+    "40": {
+      "name": "Shadow Step",
+      "0": true,
+      "30": true
+    }
+  }
+}

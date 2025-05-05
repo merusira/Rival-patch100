@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "block": true,
+  "jaunt": true,
+  "debug": false,
+  "dash": 25,
+  "delay": 0
+}

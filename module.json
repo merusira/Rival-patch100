@@ -3,26 +3,23 @@
 	"title": "Rival",
 	"author": "<font color='#297229'>merusira</font>",
 	"description": "Zero ping emulation for TERA servers running patch ~100.02.",
-    "version": "<font color='#800000'>1.2.1</font>",
+    "version": "<font color='#800000'>1.2.5</font>",
     "servers": ["https://raw.githubusercontent.com/merusira/Rival-patch100/master/"],
     "supportUrl": "https://github.com/merusira/Rival-patch100/issues",
     "options": {
-        "niceName": "<font color='#7558cd'>Rival 100</font>",
-        "guiName": "<font color='#7558cd'>Rival 100</font>",
-        "cliName": "<font color='#7558cd'>Rival 100</font>",
+        "niceName": "<font color='#7558cd'>Rival</font>",
+        "guiName": "<font color='#7558cd'>Rival</font>",
+        "cliName": "<font color='#7558cd'>Rival</font>",
         "reloadable": true
 	},
-	"dependencies": {
-        "library": "https://raw.githubusercontent.com/tera-private-toolbox/library/master/module.json",
-        "ping": "https://git.teragame.su/tera/ping/raw/master/module.json"
-    },
 	"conflicts": [
-        "skill-prediction",
+        "rival-patch34",
+		"skill-prediction",
         "ngsp",
         "ngsp_100",
         "ngsp_92",
         "ping-remover",
-        "rival-patch34"
+        "ping"
     ],
 	"disableAutoUpdate": false,
     "disabled": false
