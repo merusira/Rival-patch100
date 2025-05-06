@@ -14,6 +14,7 @@
 	},
 	"conflicts": [
         "rival-patch34",
+		"zero-ping-all-toolbox-patch100",
 		"skill-prediction",
         "ngsp",
         "ngsp_100",
