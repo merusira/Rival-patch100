@@ -454,7 +454,7 @@ module.exports = function SkillEmulationManager(mod, mods) {
      * @returns {boolean} False to block the original packet
      */
     // Special handler for C_PRESS_SKILL to properly handle drain-type skills
-    mod.hook('C_PRESS_SKILL', 1, { order: -1000 }, event => {
+    mod.hook(...mods.packet.get_all('C_PRESS_SKILL'), { order: -1000 }, event => {
         // Only handle Corruption Ring (20800) press:0 events
         if (event.skill && event.skill.id === 20800 && event.press === 0) {
             mods.log.debug("CORRUPTION_RING", `C_PRESS_SKILL with press:0 detected for Corruption Ring`);
