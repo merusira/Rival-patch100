@@ -255,7 +255,7 @@ When reporting issues, please try to include:
 
     Kasea – For designing and writing the elegant framework and core logic behind Rival’s emulation system
 
-    merusira – For their dedication to deobfuscating, decrypting, and open-sourcing the module, making it possible for all players to enjoy a more consistent and responsive experience on private servers. Their ongoing refinement of Rival’s core systems have made it more stable and efficient. They continue to improve not only this mod, but many others—including the proxy framework itself—to help ensure the best experience possible for the entire TERA community.
+    merusira – For their dedication to deobfuscating, decrypting, and open-sourcing the module, making it possible for all players to enjoy a more consistent and responsive experience. Their ongoing refinement of Rival’s core systems have made it more stable and efficient. They continue to improve not only this mod, but others—including the proxy framework itself—to help ensure the best experience possible for the entire TERA community.
 
 ### To everyone listed and unlisted who’s contributed to keeping TERA alive and evolving—thank you.
 
