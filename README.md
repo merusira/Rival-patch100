@@ -15,7 +15,7 @@ The level of whats being emulated and its adaptive approach allows Rival to prov
 ## Installation
 
 1. Works on ONLY [Tera Toolbox Atlas](https://github.com/merusira/tera-toolbox-atlas)
-- If using any Toolbox version not Atlas, use [the other version, Any_Toolbox_Zero_Ping]https://github.com/merusira/Any_Toolbox_Zero_Ping_Emulation
+- If using any Toolbox version not Atlas, use [the other version, Any_Toolbox_Zero_Ping](https://github.com/merusira/Any_Toolbox_Zero_Ping_Emulation)
 2. You may use the "Get More Mods" tab in Tera Atlas to install, or download it directly and place it in your mod folder
 -  If you download manually for Tera Atlas, place in the `patch100/mods` directory, as this verison of Rival is for patch 100
 3. Start Tera Toolbox / Atlas and launch TERA
