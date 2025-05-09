@@ -20,7 +20,8 @@
         "ngsp_100",
         "ngsp_92",
         "ping-remover",
-        "ping"
+        "ping",
+		"backstabs-manager"
     ],
 	"disableAutoUpdate": false,
     "disabled": false
